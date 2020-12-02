@@ -1,0 +1,12 @@
+h1{
+   color: red;
+}
+.green{
+   color:green;
+}
+.green.small{
+   font-size: 10px;
+}
+div h1{
+   background-color: blue;
+}
